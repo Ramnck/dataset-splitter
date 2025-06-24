@@ -76,7 +76,7 @@ Example (`img1.txt`):
 ## Usage
 
 ```bash
-python segmentation_sorter.py
+python main.py
 ```
 
 1. On the first screen, **browse** to select:
